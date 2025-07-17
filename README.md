@@ -201,8 +201,6 @@ The application is optimized for deployment on:
 
 ## 🤝 Contributing
 
-This project was built as a technical assignment for Kuvaka Tech. The implementation demonstrates:
-
 - Modern React development patterns
 - State management best practices
 - UI/UX design principles
@@ -212,5 +210,4 @@ This project was built as a technical assignment for Kuvaka Tech. The implementa
 
 ---
 
-**Built with ❤️ for Kuvaka Tech Frontend Developer Assessment**
-# gemini-chat-ui
+
